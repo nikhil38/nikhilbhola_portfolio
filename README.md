@@ -1,2 +1,2 @@
 
-This repository maintains the source for Nikhil Bhola's professiona portfolio website.
+This repository maintains the website sourcecode for Nikhil Bhola's professional portfolio. 
